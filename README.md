@@ -12,9 +12,10 @@ Welcome to **LiveDocs**, a modern, real-time collaborative document editing plat
 - **Secure and Private**: Your documents are encrypted and securely stored, ensuring your data is always safe.
 - **Intuitive UI**: Enjoy a clean, minimal interface that doesn’t get in the way of your creativity.
 
-## 🚀 Get Started
+## Get Started
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/livedocs.git
    cd livedocs
+   npm run build && npm start
